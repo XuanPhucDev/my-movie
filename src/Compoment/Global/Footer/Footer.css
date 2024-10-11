@@ -1,0 +1,15 @@
+.footer .menu{
+    justify-content: space-between;
+}
+.footer .menu img{
+    width: 200px;
+}
+.footer .menu .menu-footer li{
+    padding: 0 30px;
+}
+.coder {
+    margin-top: 50px;
+}
+.coder .coder-color{
+    color: var(--primary-color);
+}

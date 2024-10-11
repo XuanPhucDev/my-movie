@@ -1,0 +1,3 @@
+.list-movie .card-list{
+    width: calc(25% - 20px);
+}

@@ -1,0 +1,30 @@
+.detail{
+    margin-top: 50px;
+}
+.detail .container .row .col-lg-3 img{
+    border-radius: 25px;
+}
+.detail .rate .number-rate{
+    align-items: center;
+    border: 2px solid var(--primary-color);
+    border-radius: 50%;
+    color: var(--primarycolor);
+    display: inline-flex;
+    height: 70px;
+    justify-content: center;
+    width: 70px;
+}
+.detail .rate{
+    gap: 20px;
+}
+.detail .rate .playtrailer{
+    border: 2px solid #fff;
+    cursor: pointer;
+    padding: 3px 6px;
+}
+.modal-trailer{
+    color: black !important;
+}
+.modal-body iframe{
+    width: 100%;
+}

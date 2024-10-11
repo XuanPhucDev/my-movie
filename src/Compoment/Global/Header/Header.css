@@ -1,0 +1,23 @@
+.header{
+    background-color: black;
+    color: white;
+}
+.header a{
+    color: white;
+    transition: .5s;
+}
+.header a:hover{
+    color: var(--primary-color);
+    transition: .5s;
+}
+.header a.active{
+    color: var(--primary-color) !important;
+}
+ .navbar-expand-lg .navbar-nav{
+    width: 75%;
+    gap: 50px;
+    justify-content: center;
+}
+.header .input-group{
+    width: auto;
+}
